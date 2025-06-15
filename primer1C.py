@@ -1,5 +1,5 @@
 pocetna_pozicija = 20
-cilj = 80
+cilj = 60
 trenutna_pozicija = 0
 brzina = 20
 
