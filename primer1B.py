@@ -1,8 +1,7 @@
-import time
 pocetna_pozicija = 0
-cilj = 50
+cilj = 80
 trenutna_pozicija  = 0
-brzina = 10
+brzina = 20
 
 for x in range(10):
     print(trenutna_pozicija)
@@ -14,4 +13,3 @@ for x in range(10):
     elif trenutna_pozicija < cilj:
         print("Niste jos stigli")
     trenutna_pozicija += brzina
-    time.sleep(1)
